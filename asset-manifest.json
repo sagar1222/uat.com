@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uat.com/static/css/main.f5e941d0.css",
+    "main.js": "/uat.com/static/js/main.3103d4b7.js",
+    "static/media/gift.png": "/uat.com/static/media/gift.8f66fe1cb46f046b118d.png",
+    "static/media/brand.png": "/uat.com/static/media/brand.651a17c0624e5166224e.png",
+    "index.html": "/uat.com/index.html",
+    "main.f5e941d0.css.map": "/uat.com/static/css/main.f5e941d0.css.map",
+    "main.3103d4b7.js.map": "/uat.com/static/js/main.3103d4b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e941d0.css",
+    "static/js/main.3103d4b7.js"
+  ]
+}
