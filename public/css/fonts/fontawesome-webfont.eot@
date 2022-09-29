@@ -1,0 +1,747 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/icofont.min.css" rel="stylesheet">
+<link href="css/pe-icon-7-stroke.css" rel="stylesheet">
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link href="css/font-awesome.css" type="text/css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/css/swiper.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+<title>::Gaadiweb::</title>
+</head>
+
+<body>
+<header class="header-section">
+  <div class="top-head-section">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+          <div class="top-custom-link text-center text-md-start">
+            <ul class="list-inline">
+              <li class="list-inline-item"><a href=""><i class="icofont-ui-call"></i>Give A miss call 8239978612</a></li>
+              <li class="list-inline-item"><a href=""><i class="icofont-envelope"></i> support@gaadiweb.com</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+          <div class="login-custom-link text-center text-md-end">
+            <ul class="list-inline">
+              <li class="list-inline-item"><a class="button" href="#"><span>Sign In/Sign Up</span> </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="pt-2 pb-2 sticky-top-header">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-5 col-sm-5 col-md-5 col-lg-5 align-self-center">
+          <div class="site-logo"> <a href="index.html"><img src="images/logo.png"> </a> </div>
+        </div>
+        <div class="col-3 col-sm-2 col-md-2 col-lg-2 align-self-center d-none d-lg-block">
+          <div class="header-navigation"> </div>
+        </div>
+        <div class="col-7 col-sm-5 col-md-5 col-lg-5 text-end">
+          <div class="cart-search-block">
+            <div class="buutton-top">
+              <ul>
+                <li><a class="button" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal2"><span>Purchase From Us</span></a>
+                  <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLabel2">Enquiry</h5>
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                          <div class="form-body">
+                            <div class="row">
+                              <div class="form-holder">
+                                <div class="form-content">
+                                  <div class="form-items">
+                                    <iframe width="100%" height="500" src="https://crm.pyzenlabs.com/forms/wtl/de86e148b83b45bd4e269af454b2923a" frameborder="0" allowfullscreen></iframe>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li><a class="button" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal3"><span>Sell with Us</span></a>
+                  <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLabel3">Become a Gaadiweb Spare partners</h5>
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                          <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                              <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Customer</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                              <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false">Vendor</button>
+                            </li>
+                          </ul>
+                          <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                              <div class="form-body">
+                                <div class="row">
+                                  <div class="form-holder">
+                                    <iframe width="100%" height="500" src="https://crm.pyzenlabs.com/forms/wtl/c3da853e8307373ac384c9f9a974ebb6" frameborder="0" allowfullscreen></iframe>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                              <div class="form-body">
+                                <div class="row">
+                                  <div class="form-holder">
+                                    <div class="form-content">
+                                      <div class="form-items">
+                                        <iframe width="100%" height="500" src="https://crm.pyzenlabs.com/forms/wtl/c3da853e8307373ac384c9f9a974ebb6" frameborder="0" allowfullscreen></iframe>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="modal-footer">
+                          <p>By sharing your details, you agree to our<a href="#"> privacy Policy</a></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+    <div class="offcanvas-header align-self-end">
+      <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+  </div>
+</header>
+<div class="slider-section" style="background-image: url(./images/banner.jpg)">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="slider-header text-left" >
+          <h2>Gaadiweb - Your's Auto Parts Partner</h2>
+          <p>Car Parts, Car Maintanance, And More.</p>
+          <!--  <div class="shopping-now-btn mt-3 mt-md-4">
+                    <a href=""><img src="images/icon-play-store.png"></a>
+                </div>--> 
+        </div>
+      </div>
+    <!--  <div class="col-md-4">
+        <div class="find_form">
+          <h2>Find by Vehicle</h2>
+          <form action="">
+            <div class="camp-select">
+              <select class="selectcamp mycamp" data-style="btn-primary">
+                <option>Select a Make</option>
+                <option>campaign-2</option>
+                <option>campaign-3</option>
+              </select>
+            </div>
+          </form>
+          <form action="">
+            <div class="camp-select">
+              <select class="selectcamp mycamp" data-style="btn-primary">
+                <option>Select a Model</option>
+                <option>campaign-2</option>
+                <option>campaign-3</option>
+              </select>
+            </div>
+          </form>
+          <form action="">
+            <div class="camp-select">
+              <select class="selectcamp mycamp" data-style="btn-primary">
+                <option>Select Year</option>
+                <option>campaign-2</option>
+                <option>campaign-3</option>
+              </select>
+            </div>
+          </form>
+          <form action="">
+            <div class="camp-select">
+              <select class="selectcamp mycamp" data-style="btn-primary">
+                <option>Select Fuel Engine</option>
+                <option>campaign-2</option>
+                <option>campaign-3</option>
+              </select>
+            </div>
+          </form>
+          <button type="button" class="btn btn-primary">Primary</button>
+        </div>
+      </div>-->
+    </div>
+  </div>
+</div>
+<section class="about-us">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 ">
+		 <div class="ab">
+        <h1>About Us</h1>
+        <p>Established in 2019, GaadiWeb has become a pioneer in the auto component domestic aftermarket by creating an Online to Offline model. </p>
+        <p>GaadiWeb seeks to be the one-stop-shop of auto components and Accessories for B2C and B2B clients.
+        <h1>Vision</h1>
+        <p>To consistently offer reliable and affordable products & service while maintaining a high level of customer satisfaction and good brand image</p>
+        <h1>Mission</h1>
+        <p>To be one of the top choices for auto components in India that can amalgamate a highly unorganized industry. </p>
+      </div>
+		</div>
+      <div class="col-md-12">
+        <div class="mission">
+          <h1>Our Purpose</h1>
+         
+          <p><b>Why:</b> We believe that on-road mobility [personal, shared and freight] is an integral part of society, that needs the right fluidity for its optimal utilization, enhanced up-time, longevity and reduced cost of ownership,</p>
+          <p><b>How:</b> By addressing the organized, semi-organized and unorganized automotive aftermarket, providing spares and accessories through an optimal blend of online and offline channels, supported by a robust supply chain, thereby enhancing the economic and non-economic returns of all our stakeholders.</p>
+          <p><b>What:</b> A platform that caters to the requirements of our potential customers in the spares and accessories space. The platform ensures the right access, quality, delivery cycles and a broad range of components that ensures customer delight each and every time they connect with us.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="body-content">
+  <div class="featured-product-section">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="we-are-section">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-12 col-sm-12 col-md-6 col-lg-6 we-are-bg"> <img src="images/login.png"> </div>
+              <div class="col-12 col-sm-12 col-md-6 col-lg-6 we-gray-bg">
+                <div class="choose-content">
+                  <h3>Gaadiweb App</h3>
+                  <p>Gaadiweb App empowering workshop/ garages to get any Auto spare parts of OEM/OES on the competitive price. Using GW App you can get car parts quotations with prices of original and aftermarket parts in just a few
+                    clicks. </p>
+                  <h3>How we do it</h3>
+                  <p>With GW looking up the information you need is easy. </p>
+                  <ul>
+                    <li>You can share the details about vehicle, part number, VIN or Make and Model.</li>
+                    <li>Submit the query</li>
+                    <li>Get your quotes quickly.</li>
+                    <li>Place your booking with just one click</li>
+                    <li>Plan better with transparent pricing</li>
+                    <li>Easy-to-use tool with just a few simple steps</li>
+                    <li>Convenient access to previous quotations.</li>
+                    <li>Keep track of your Orders</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+  </div>
+</div>
+<div class="partner_section">
+  <div id="projectFact" class="sectionClass">
+    <div class="fullWidth eight columns">
+      <div class="projectFactsWrap ">
+        <div class=" item wow fadeInUpBig animated animated" data-number="12" style="visibility: visible;"> <img src="images/icon-communities.svg">
+          <p id="number1" class="number">500+</p>
+          <span></span>
+          <p>Garages</p>
+        </div>
+        <div class=" item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;"> <img src="images/icon-orders.svg">
+          <p id="number2" class="number" style="font-size: 58.5px;">08</p>
+          <span></span>
+          <p>Locations</p>
+        </div>
+        <div class=" item wow fadeInUpBig animated animated" data-number="359" style="visibility: visible;"> <img src="images/icon-retailers.svg">
+          <p id="number3" class="number">20,000+</p>
+          <span></span>
+          <p>Orders </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="carousel-gallery partner">
+  <h1>Few of Our Customers </h1>
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"> <a href="#" data-fancybox="gallery">
+        <div class="image" style="background-image:url(./images/first.png)">
+          <div class="overlay"> <em class="mdi mdi-magnify-plus"></em> </div>
+        </div>
+        </a> </div>
+      <div class="swiper-slide"> <a href="#" data-fancybox="gallery">
+        <div class="image" style="background-image: url(./images/pit.png)">
+          <div class="overlay"> <em class="mdi mdi-magnify-plus"></em></div>
+        </div>
+        </a> </div>
+      <div class="swiper-slide"> <a href="#" data-fancybox="gallery">
+        <div class="image" style="background-image:url(./images/ola.png)">
+          <div class="overlay"> <em class="mdi mdi-magnify-plus"></em> </div>
+        </div>
+        </a> </div>
+      <div class="swiper-slide"> <a href="#" data-fancybox="gallery">
+        <div class="image" style="background-image:url(./images/Spinny_Logo.png)">
+          <div class="overlay"> </div>
+        </div>
+        </a> </div>
+      <div class="swiper-slide"> <a href="#" data-fancybox="gallery">
+        <div class="image" style="background-image:url(./images/go.jpg)">
+          <div class="overlay"> <em class="mdi mdi-magnify-plus"></em> </div>
+        </div>
+        </a> </div>
+      <!-- <div class="swiper-slide">
+                    <a href="#" data-fancybox="gallery">
+                        <div class="image" style="background-image:url(./images/Spinny_Logo.png)">
+                            <div class="overlay"> </div>
+                        </div>
+                    </a>
+                </div>-->
+      
+      <div class="swiper-slide"> <a href="#" data-fancybox="gallery">
+        <div class="image" style="background-image:url(./images/car_genix.png)">
+          <div class="overlay"> </div>
+        </div>
+        </a> </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+<!--#Carousel Gallery-->
+
+<div class="benifit-section">
+  <div class="what-we-do-section pt-5 pb-5">
+    <div class="container-fluid">
+      <h1>Gaadiweb Benefits </h1>
+      <p>Gaadiweb – To complete your workshop/garage</p>
+      <div class="row">
+        <div class="col-12 col-sm-12 col-md-3 col-lg-3 mb-5">
+          <div class="we-do-block text-center">
+            <figure> <img src="images/icon1.png" class="img-fluid"> </figure>
+            <h4>One Stop fulfilment Solution </h4>
+            <p>Order any auto spare parts based on Vehicle, part Number etc.</p>
+          </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-3 col-lg-3 mb-5">
+          <div class="we-do-block text-center">
+            <figure> <img src="images/icon2.png" class="img-fluid"> </figure>
+            <h4>Competitive Pricing </h4>
+            <p>Offers competitive pricing & discounts</p>
+          </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-3 col-lg-3 mb-5">
+          <div class="we-do-block text-center">
+            <figure> <img src="images/icon3.png" class="img-fluid"> </figure>
+            <h4>Quick & Easy </h4>
+            <p>Team and technology to help you</p>
+          </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-3 col-lg-3 mb-5">
+          <div class="we-do-block text-center">
+            <figure> <img src="images/why_icon_10.png" class="img-fluid"> </figure>
+            <h4>PAN India </h4>
+            <p>Present in multiple states for spare parts sourcing.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="customized-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+        <div class="row mb-5">
+          <div class="col-12 col-sm-4 col-md-4 col-lg-6">
+            <div class="blog-post-thumb me-0">
+              <figure> <img src="images/quote.png" class="img-fluid"> </figure>
+            </div>
+          </div>
+          <div class="col-12 col-sm-4 col-md-7 col-lg-6">
+            <div class="blog-post-content">
+              <div class="blog-post-title">
+                <h4 class="mb-3">Get a Quote</h4>
+                <p>Whether you require bulk spare parts or a specific auto space part, we’re here to help! Get a customized quote from our experts at the best possible prices. Give Requirements </p>
+              </div>
+              <div class="continue-btn mt-2">
+                <div class="continue-btn mt-2">
+                  <button type="button" class="btn btn-primary button" data-bs-toggle="modal" data-bs-target="#exampleModal1"><span> Give Requirment</span></button>
+                  
+                  <!-- Modal -->
+                  <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLabel">Enquiry</h5>
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                          <div class="form-body">
+                            <div class="row">
+                              <iframe width="100%" height="500" src="https://crm.pyzenlabs.com/forms/wtl/de86e148b83b45bd4e269af454b2923a" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-12 col-md-6 col-lg-6">
+        <div class="row mb-5">
+          <div class="col-12 col-sm-4 col-md-4 col-lg-6">
+            <div class="blog-post-thumb me-0">
+              <figure> <img src="images/top20warehouse1218.jpg" class="img-fluid"> </figure>
+            </div>
+          </div>
+          <div class="col-12 col-sm-4 col-md-7 col-lg-6">
+            <div class="blog-post-content">
+              <div class="blog-post-title">
+                <h4 class="mb-3">Become a Gaadiweb Spares Partner</h4>
+                <p>Associate with GaadiWeb to expand your auto spare parts business and boost your annual revenue. Let’s grow together!</p>
+              </div>
+              <div class="continue-btn mt-2">
+                <button type="button" class="btn btn-primary button" data-bs-toggle="modal" data-bs-target="#exampleModal"><span> Partner Now</span></button>
+                
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Become a Gaadiweb Spare partners</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                      </div>
+                      <div class="modal-body">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                          <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Customer</button>
+                          </li>
+                          <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false">Vendor</button>
+                          </li>
+                        </ul>
+                        <div class="tab-content" id="myTabContent">
+                          <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                            <div class="form-body">
+                              <div class="row">
+                                <iframe width="100%" height="500" src="https://crm.pyzenlabs.com/forms/wtl/c3da853e8307373ac384c9f9a974ebb6" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                            <div class="form-body">
+                              <div class="row">
+                                <iframe width="100%" height="500" src="https://crm.pyzenlabs.com/forms/wtl/c3da853e8307373ac384c9f9a974ebb6" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="modal-footer">
+                        <p>By sharing your details, you agree to our<a href="#"> privacy Policy</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 col-lg-5 col-sm-12"> <img src="images/footer-logo.png">
+        <div class="footer-nav-wrap text-white">
+          <div class="get-in-touch-list">
+            <div class="d-flex align-items-center"><i class="fa fa-home" aria-hidden="true"></i>Lothian Road, Kashmeri Gate, Delhi, 110006</div>
+            <div class="social-icons">
+              <ul class="list-inline">
+                <li class="list-inline-item"><a href="https://www.linkedin.com/company/gwgaadiweb/"><i class="fa fa-linkedin" aria-hidden="true"></i> </a></li>
+                <li class="list-inline-item"><a href="https://twitter.com/gwgaadiweb"><i class="icofont-twitter"></i></a></li>
+                <li class="list-inline-item"><a href="https://www.instagram.com/gwgaadiweb/"><i class="icofont-instagram"></i></a></li>
+                <li class="list-inline-item"><a href="https://www.facebook.com/gwgaadiweb/"><i class="icofont-facebook"></i></a></li>
+                </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-lg-3 col-sm-12">
+        <ul class="contact-d">
+          <li class="list-inline-item"><a href=""><i class="fa fa-envelope" aria-hidden="true"></i>support@gaadiweb.com </a></li>
+          <li class="list-inline-item"><a href=""><i class="fa fa-phone" aria-hidden="true"></i>011 - 41617193 
+            9821449920/70</a></li>
+          <li class="list-inline-item"><a href=""><i class="fa fa-calendar" aria-hidden="true"></i>Monday-Sunday </a></li>
+          <li class="list-inline-item"><a href=""><i class="fa fa-clock-o" aria-hidden="true"></i> Timing 09 to 19:00 </a></li>
+        </ul>
+      </div>
+      <div class="col-md-4 text-end"> 
+        <!-- <div class="shopping-now-btn mt-3 mt-md-4">
+                        <a href=""><img src="images/icon-play-store.png"></a>
+                    </div>
+                    <div class="shopping-now-btn mt-3 mt-md-4">
+                        <a href=""><img src="images/Apple_Store.png"></a>
+                    </div> --> 
+      </div>
+    </div>
+  </div>
+  <p>Copyrights © 2021. All rights reserved by <a href="#">Motoworks Automobiles Private Limited </a></p>
+</footer>
+
+<!-- Option 1: Bootstrap Bundle with Popper --> 
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script> 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/js/swiper.min.js'></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/owl.carousel.min.js"></script> 
+<script>
+        $.fn.jQuerySimpleCounter = function(options) {
+            var settings = $.extend({
+                start: 0,
+                end: 100,
+                easing: 'swing',
+                duration: 400,
+                complete: ''
+            }, options);
+
+            var thisElement = $(this);
+
+            $({
+                count: settings.start
+            }).animate({
+                count: settings.end
+            }, {
+                duration: settings.duration,
+                easing: settings.easing,
+                step: function() {
+                    var mathCount = Math.ceil(this.count);
+                    thisElement.text(mathCount);
+                },
+                complete: settings.complete
+            });
+        };
+
+
+        $('#number1').jQuerySimpleCounter({
+            end: 500 + ,
+            duration: 5000
+        });
+        $('#number2').jQuerySimpleCounter({
+            end: 08,
+            duration: 1000
+        });
+        $('#number3').jQuerySimpleCounter({
+            end: 20000 + ,
+            duration: 2000
+        });
+
+
+
+
+        /* AUTHOR LINK */
+        $('.about-me-img').hover(function() {
+            $('.authorWindowWrapper').stop().fadeIn('fast').find('p').addClass('trans');
+        }, function() {
+            $('.authorWindowWrapper').stop().fadeOut('fast').find('p').removeClass('trans');
+        });
+    </script> 
+<script>
+        $(function() {
+
+            var swiper = new Swiper('.carousel-gallery .swiper-container', {
+                effect: 'slide',
+                speed: 900,
+                slidesPerView: 5,
+                spaceBetween: 20,
+                simulateTouch: true,
+                autoplay: {
+                    delay: 5000,
+                    stopOnLastSlide: false,
+                    disableOnInteraction: false
+                },
+                pagination: {
+                    el: '.carousel-gallery .swiper-pagination',
+                    clickable: true
+                },
+                breakpoints: {
+                    // when window width is <= 320px
+                    320: {
+                        slidesPerView: 1,
+                        spaceBetween: 5
+                    },
+                    // when window width is <= 480px
+                    425: {
+                        slidesPerView: 2,
+                        spaceBetween: 10
+                    },
+                    // when window width is <= 640px
+                    768: {
+                        slidesPerView: 3,
+                        spaceBetween: 20
+                    }
+                }
+            }); /*http://idangero.us/swiper/api/*/
+
+
+
+        });
+    </script> 
+<script>
+        $(document).ready(function() {
+            $('#SliderSlide').owlCarousel({
+                loop: true,
+                margin: 0,
+                autoplay: true,
+                nav: false,
+                dots: true,
+                responsiveClass: true,
+                responsive: {
+                    0: {
+                        items: 1,
+                    },
+                    600: {
+                        items: 1,
+                    },
+                    1000: {
+                        items: 1,
+                    }
+                }
+            })
+        })
+
+        $(document).ready(function() {
+            $('#SponsorSlide').owlCarousel({
+                loop: false,
+                margin: 20,
+                autoplay: true,
+                nav: true,
+                dots: false,
+                navText: ["<i class='icofont-bubble-left'></i>", "<i class='icofont-bubble-right'></i>"],
+                responsiveClass: true,
+                responsive: {
+                    0: {
+                        items: 1,
+                    },
+                    600: {
+                        items: 2,
+                    },
+                    768: {
+                        items: 3,
+                    },
+                    1000: {
+                        items: 4,
+                    }
+                }
+            })
+        })
+
+        $('#SearchID').on('click', function() {
+            $('.form-white-bx').toggleClass('visible');
+        });
+
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 50) {
+                $('.sticky-top-header').addClass('header-fixed-top');
+            } else {
+                $('.sticky-top-header').removeClass('header-fixed-top');
+            }
+        });
+    </script> 
+<script>
+        $(document).ready(function() {
+            $('#SliderSlide').owlCarousel({
+                loop: true,
+                margin: 0,
+                autoplay: true,
+                nav: false,
+                dots: true,
+                responsiveClass: true,
+                responsive: {
+                    0: {
+                        items: 1,
+                    },
+                    600: {
+                        items: 1,
+                    },
+                    1000: {
+                        items: 1,
+                    }
+                }
+            })
+        })
+
+        $(document).ready(function() {
+            $('#SponsorSlide').owlCarousel({
+                loop: false,
+                margin: 20,
+                autoplay: true,
+                nav: true,
+                dots: false,
+                navText: ["<i class='icofont-bubble-left'></i>", "<i class='icofont-bubble-right'></i>"],
+                responsiveClass: true,
+                responsive: {
+                    0: {
+                        items: 1,
+                    },
+                    600: {
+                        items: 2,
+                    },
+                    768: {
+                        items: 3,
+                    },
+                    1000: {
+                        items: 4,
+                    }
+                }
+            })
+        })
+
+        $('#SearchID').on('click', function() {
+            $('.form-white-bx').toggleClass('visible');
+        });
+
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 50) {
+                $('.sticky-top-header').addClass('header-fixed-top');
+            } else {
+                $('.sticky-top-header').removeClass('header-fixed-top');
+            }
+        });
+    </script> 
+<strong></strong> 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/js/swiper.min.js'></script>
+</body>
+</html>
